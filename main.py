@@ -9,5 +9,5 @@ print(time.time())
 # git add nazwa_pliku
 # git commit -m "wiadomość"
 # git push origin main
-
+# git pull
 
