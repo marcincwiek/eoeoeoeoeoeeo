@@ -14,3 +14,5 @@ print(time.time())
 # git push origin main
 
 # git checkout -b (nowy branch)
+
+# git pull
