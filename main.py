@@ -2,7 +2,6 @@ import time
 
 
 print("Hello git 😎😎😎😎")
-print(time.time())
 
 # Tu coś kiedyś będzie 
 
