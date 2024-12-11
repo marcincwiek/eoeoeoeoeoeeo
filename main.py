@@ -1,5 +1,6 @@
 import time
 
+
 print("Hello git 😎😎😎😎")
 print(time.time())
 
@@ -17,7 +18,6 @@ print(time.time())
 
 # git pull najnowsze zmianny
 
-
 # venv\Scripts\activate.bat dla cmd
 # venv\Scripts\activate     dla powershella
 
@@ -29,5 +29,4 @@ if __name__ == "__main__":
     app.run(port=8080)
 
 # git push -u origin version1  Do innego branch push
-
 print("hello world")
