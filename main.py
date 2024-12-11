@@ -15,4 +15,8 @@ print(time.time())
 
 # git checkout -b (nowy branch)
 
-# git pull
+# git pull najnowsze zmianny
+
+
+# venv\Scripts\activate.bat dla cmd
+# venv\Scripts\activate     dla powershella
