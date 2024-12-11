@@ -1,7 +1,7 @@
 import time
 
+
 print("Hello git 😎😎😎😎")
-print(time.time())
 
 # Tu coś kiedyś będzie 
 
@@ -17,7 +17,6 @@ print(time.time())
 
 # git pull najnowsze zmianny
 
-
 # venv\Scripts\activate.bat dla cmd
 # venv\Scripts\activate     dla powershella
 
@@ -27,4 +26,6 @@ app = Flask(__name__)
 
 if __name__ == "__main__":
     app.run(port=8080)
-    
+
+# git push -u origin version1  Do innego branch push
+print("hello world")
